@@ -181,6 +181,8 @@ public class ChandraSambavi {
 |---|---|---|
 | 🌍 | **COLIGO AI Design Challenge 2025 — Semi-Finalist** | Shortlisted internationally for *Hill Safety Solution* by Coligo Technologies, Germany |
 | 🐱 | **Caterpillar Tech Challenge 2025 — Shortlisted** | Recognized by Caterpillar Inc. for technical proposal on *Real-Time Monocular Depth Estimation* |
+| 📄 | **Research Publication — 2026** | Published "Li-Fi Based Autonomous Underwater Vehicle with Integrated Optical Communication and Obstacle Detection" in the International Journal of Advances in Signal and Image Sciences |
+| 🎤 | **ICUNMCS-26 Conference Presenter** | Presented research work on Li-Fi-enabled underwater communication at the International Conference on Underwater Networks and Marine Communication Systems (ICUNMCS-26), Bhubaneswar, India |
 
 
 </div>
