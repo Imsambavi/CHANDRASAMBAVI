@@ -120,7 +120,7 @@ public class ChandraSambavi {
 ---
 
 
-## 💼 Work Experience
+## 💼 IMPLANT TRAININGS
 
 <details>
 <summary>🏭 <strong>MachDatum Pvt. Ltd.</strong> — Implant Trainee &nbsp;|&nbsp; Jan 2025  &nbsp;|&nbsp; Coimbatore, India</summary>
