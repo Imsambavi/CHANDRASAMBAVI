@@ -40,13 +40,6 @@ public class ChandraSambavi {
         "HTML", "CSS", "Networking Protocols"
     };
 
-    String[] currentlyLearning = {
-        "Advanced Data Analytics",
-        "Machine Learning Fundamentals",
-        "PCB Design (KiCad)",
-        "Embedded Systems"
-    };
-
    String funFact = "Balancing technical projects with leadership roles "
                + "in community service and financial management.";
 
