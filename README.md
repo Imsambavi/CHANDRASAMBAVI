@@ -165,7 +165,6 @@ public class ChandraSambavi {
 | 🌡️ [**Temperature Monitoring System**](#) | ` STM32G030K8T6`, `ADT7302`, `SPI communication`| Designed and fabricated a PCB-based temperature monitoring system, integrating SPI communication for accurate real-time sensor data acquisition and processing |
 | 🌊 [**Li-Fi Based Autonomous Underwater Vehicle**](#) | ` ESP32-CAM `,`Raspberry Pi Pico`,`Arduino Nano`,`Laser Module`|A hardware-based communication system that captures images using an ESP32-CAM, processes data with a Raspberry Pi Pico, transmits information through a laser module, and reconstructs the received data using an Arduino Nano receiver. Designed to demonstrate high-speed underwater optical communication as an alternative to conventional acoustic methods|
 | 📊 [**Data Classification & Interactive Dashboard**](#) | `Excel` `Tableau` `Power BI` | Cleaned & analyzed structured datasets; built interactive Tableau dashboard that **reduced manual data interpretation by ~40%**; improved KPI tracking speed |
-| 🌐 [**Go-Back-N ARQ on Edge Devices**](#) | `Raspberry Pi 5` `UDP` `CRC32` `Python` | UDP-based file transfer with Go-Back-N protocol; **improved transmission reliability by 30–35%** under packet loss; automated email monitoring cut manual supervision by **50%** |
 | 🏋️ [**Smart Gym Access & Scheduling System**](#) | `PHP` `MySQL` `HTML` `CSS` `XAMPP` | Web-based gym management with DB-authenticated slot booking; **improved management efficiency by ~70%** and **cut manual record handling by 60%** |
 
 
